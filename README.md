@@ -1,10 +1,11 @@
 # Hi, I'm Bhukya Jashwanthi 👋
 
-I build **AI-powered applications** and **full-stack web apps**: from RAG pipelines and LLM integrations to MERN-stack products.
+**AI & Full-Stack Developer** turning ideas into working products, from LLM-powered assistants to end-to-end MERN web apps.
 
-- 🔭 Currently working on generative AI projects with LangChain, Gemini and Streamlit
-- 🌱 Learning more about retrieval-augmented generation, vector databases and backend design
-- 🤝 Open to internships and entry-level roles in AI/ML and software development
+- 🤖 **Generative AI:** built a RAG system that answers questions across YouTube lectures with timestamp citations, using LangChain, ChromaDB and Gemini
+- 🌐 **Full-stack:** shipped a MERN health platform with authentication, cloud file storage, interactive maps and an AI chatbot
+- ⚡ **Product focus:** I care about clean code, secure handling of API keys, and apps that solve real problems for real users
+- 💼 **Looking for:** internships and full-time roles in AI/ML engineering and software development, where I can build, ship and learn fast
 
 ## 🚀 Featured Projects
 
