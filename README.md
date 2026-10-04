@@ -12,32 +12,32 @@ I build intelligent applications that turn data and language models into real, u
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhukya-jashwanthi-b642b6258)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jashwanthi_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhukya-jashwanthi-b642b6258)
+[![X](https://img.shields.io/badge/X-30363d?style=flat-square&logo=x&logoColor=white)](https://x.com/jashwanthi_)
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-30363d?style=flat-square&logo=javascript&logoColor=white)
 
 **AI / ML**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-30363d?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-30363d?style=flat-square&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-30363d?style=flat-square&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-30363d?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-30363d?style=flat-square&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-30363d?style=flat-square)
 
 **Apps & Tools**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-30363d?style=flat-square&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-30363d?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-30363d?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-30363d?style=flat-square&logo=github&logoColor=white)
 
 ## 🚀 Featured Projects
 
