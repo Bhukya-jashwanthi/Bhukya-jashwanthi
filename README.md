@@ -26,7 +26,3 @@
 <img src="https://cdn.simpleicons.org/mongodb/8b949e" alt="MongoDB" title="MongoDB" height="26" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/git/8b949e" alt="Git" title="Git" height="26" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/github/8b949e" alt="GitHub" title="GitHub" height="26" />
-
-### GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bhukya-jashwanthi&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Jashwanthi's%20GitHub%20Stats" alt="GitHub stats" height="165" />
