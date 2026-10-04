@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/bhukya-jashwanthi-b642b6258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://x.com/jashwanthi_" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/000000" alt="X" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhukya-jashwanthi-b642b6258" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" title="LinkedIn" height="20" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/jashwanthi_" target="blank"><img src="https://cdn.simpleicons.org/x/000000" alt="X" title="X" height="20" /></a>
 
 ### Tech stack
 
