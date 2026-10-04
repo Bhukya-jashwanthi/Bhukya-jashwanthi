@@ -7,11 +7,6 @@
 - 🌱 Currently exploring **NLP, deep learning and AI agents**
 - 💬 Ask me about **Python, machine learning and RAG**
 
-### Connect with me
-
-<a href="https://www.linkedin.com/in/bhukya-jashwanthi-b642b6258"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" /></a>
-<a href="https://x.com/jashwanthi_"><img src="https://skillicons.dev/icons?i=twitter" height="36" alt="X" /></a>
-
 ### Tech stack
 
 <img src="https://skillicons.dev/icons?i=py,js,sklearn,react,nodejs,mongodb,git,github,vscode&theme=dark" alt="Tech stack" />
