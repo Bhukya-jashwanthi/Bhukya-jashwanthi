@@ -12,13 +12,14 @@
 | Project | What it does | Tech |
 | --- | --- | --- |
 | [**LectureLens**](https://github.com/Bhukya-jashwanthi/lecturelens) | Ask questions across YouTube lectures and get answers with clickable timestamp citations | Python, LangChain, ChromaDB, Gemini, Streamlit |
+| [**Movie Recommendation System**](https://github.com/Bhukya-jashwanthi/Movie-Recommendation-System) | Recommends similar movies from 4,800+ titles using content-based filtering and cosine similarity | Python, scikit-learn, Pandas, Streamlit |
 | [**AI Travel Planner for Students**](https://github.com/Bhukya-jashwanthi/ai-powered-travel-planner-students-) | Generates personalized, budget-friendly day-by-day itineraries | Python, Streamlit, Google Gemini |
 | [**Smart Healthcare**](https://github.com/Bhukya-jashwanthi/smarthealthcare) | Health web app with an AI health assistant, vitals tracking and nearby-hospital maps | React, Node.js, MongoDB, OpenAI |
 
 ## 🛠️ Tech Stack
 
 **Languages:** Python, JavaScript
-**AI / ML:** LangChain, Google Gemini, OpenAI API, RAG, embeddings, ChromaDB
+**AI / ML:** LangChain, Google Gemini, OpenAI API, RAG, embeddings, ChromaDB, scikit-learn, Pandas
 **Apps & UI:** Streamlit, React
 **Data & Backend:** MongoDB, Node.js
 **Tools:** Git, GitHub, VS Code
