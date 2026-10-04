@@ -1,13 +1,14 @@
 # Hi there, I'm Bhukya Jashwanthi 👋
 
-### Aspiring AI/ML Engineer | Fresher | Generative AI & Machine Learning
+### AI/ML Developer · Generative AI · LLMs · RAG · Machine Learning
 
-I'm a fresher who loves turning AI ideas into working projects, from RAG-powered assistants to machine learning recommenders.
+I build intelligent applications that turn data and language models into real, usable products, from RAG-powered assistants to machine learning recommenders.
 
-- 🌱 Currently learning **LLMs, RAG, NLP and deep learning**
-- 🔭 Recently built **LectureLens**, a RAG app that answers questions across YouTube lectures with timestamp citations
-- 🤝 Open to **internships and entry-level roles** in AI/ML
-- 💬 Ask me about **Python, machine learning and LangChain**
+- 🤖 Building **LLM and RAG applications** with LangChain, Gemini and vector databases
+- 🔭 Latest project: **LectureLens**, a RAG app that answers questions across YouTube lectures with clickable timestamp citations
+- 🌱 Currently exploring **NLP, deep learning and AI agents**
+- 🤝 Open to **AI/ML opportunities** and collaborations on Generative AI projects
+- 💬 Ask me about **Python, machine learning, LangChain and RAG**
 
 ## 🌐 Connect with me
 
