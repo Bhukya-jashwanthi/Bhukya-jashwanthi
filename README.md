@@ -14,9 +14,18 @@
 
 ### Tech stack
 
-<img src="https://skillicons.dev/icons?i=py,js,sklearn,react,nodejs,mongodb,git,github,vscode&theme=dark" alt="Tech stack" />
-
-**AI tools:** LangChain · Google Gemini · OpenAI API · ChromaDB · Pandas · Streamlit
+<img src="https://cdn.simpleicons.org/python/8b949e" alt="Python" title="Python" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/8b949e" alt="JavaScript" title="JavaScript" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/8b949e" alt="scikit-learn" title="scikit-learn" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/8b949e" alt="Pandas" title="Pandas" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/8b949e" alt="LangChain" title="LangChain" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8b949e" alt="Google Gemini" title="Google Gemini" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/streamlit/8b949e" alt="Streamlit" title="Streamlit" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react/8b949e" alt="React" title="React" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/8b949e" alt="Node.js" title="Node.js" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/8b949e" alt="MongoDB" title="MongoDB" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/8b949e" alt="Git" title="Git" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/8b949e" alt="GitHub" title="GitHub" height="26" />
 
 ### GitHub stats
 
